@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CameraIntent</string>
+    <string name="instruction">Click the image to take a photo.</string>
+    <string name="photo_result">Here is the result.</string>
+    <string name="photo_desc">taking a photo</string>
+    <string name="fail_result">A error has occurred.</string>
+    <string name="success_result">You have taken an image.</string>
+    <string name="fail_in_creating_photo">Failed in creating a photo.</string>
+    <string name="fail_request_result">Failed in returns from a external activity.</string>
+</resources>
